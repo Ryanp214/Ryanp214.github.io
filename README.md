@@ -31,4 +31,7 @@ List of projects
 --- Conditionals Investigate 
 --- Conditionals Modify 
 --- Conditionals Make 
----
+--- Iteration Predict & Run 
+--- Iteration Invetigate 
+--- Iteration Modify 
+
